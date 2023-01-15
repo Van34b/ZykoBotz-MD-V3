@@ -49,16 +49,16 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['6281293063326', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
+['6281293063326', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '628XXXXXXXXX' //pasang no bot lo 
-global.nomorown = '628XXXXXXXXX' //pasang no own lo
-global.nomorown1 = '628XXXXXXXXX'
-global.nomorown2 = '628XXXXXXXXX'
-global.nomorwa = '0'
+global.nomorbot = '6281293063326' //pasang no bot lo 
+global.nomorown = '6281293063326' //pasang no own lo
+global.nomorown1 = '6281293063326'
+global.nomorown2 = '6281293063326'
+global.nomorwa = '6281293063326'
 global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
 global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
 global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
@@ -107,7 +107,7 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
+global.pdana = '6281293063326' //pasang no lo sinih buat donasi 
 global.povo = '08XXXXXXXXXX' 
 global.pgopay = '08XXXXXXXXXX'
 global.plinkaja = '-' //link aja
